@@ -3,15 +3,12 @@
 Me dedico a construir soluciones digitales uniendo el desarrollo técnico con estándares de calidad.
 Me enfoco principalmente en el desarrollo **Backend** y **Fullstack**.
 
----
-
-## ─── 💡 Mi Filosofía y Enfoque ───
+## 💡 Mi Filosofía y Enfoque
 
 *   **Tecnología con Propósito:** No programo solo por escribir líneas de código; creo software con un objetivo claro. Mis soluciones buscan transformar entornos y potenciar el talento local.
 *   **Diseño de Soluciones Integrales:** Cuando veo un problema, busco entender el panorama completo para diseñar sistemas eficientes que ordenen, estandaricen y optimicen los procesos reales de una organización o negocio.
 *   **Compromiso Innegociable con la Calidad:** Para mí, la calidad es el pilar fundamental desde el diseño inicial. Me enfoco en construir sistemas limpios, ordenados y bien estructurados.
 
----
 
 ## ─── 🛠️ Mi Stack Tecnológico ───
 
