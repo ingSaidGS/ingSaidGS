@@ -1,4 +1,4 @@
-# ¡Hola! Soy un apasionado de la Ingeniería de Software 🚀
+# ¡Hola! Soy Said González 🚀
 
 Me dedico a construir soluciones digitales robustas, eficientes y escalables, uniendo el desarrollo técnico con estándares de calidad para generar un impacto real en el desarrollo económico y social. 
 
