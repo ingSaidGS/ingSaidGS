@@ -1,8 +1,7 @@
 # ¡Hola! Soy Said González 🚀
 
-Me dedico a construir soluciones digitales robustas, eficientes y escalables, uniendo el desarrollo técnico con estándares de calidad para generar un impacto real en el desarrollo económico y social. 
-
-Me enfoco principalmente en el desarrollo **Backend** y **Fullstack**, creando arquitecturas limpias y APIs de alto rendimiento.
+Me dedico a construir soluciones digitales uniendo el desarrollo técnico con estándares de calidad.
+Me enfoco principalmente en el desarrollo **Backend** y **Fullstack**.
 
 ---
 
