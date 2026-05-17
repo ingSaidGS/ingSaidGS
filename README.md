@@ -1,7 +1,16 @@
 # ¡Hola! Soy Said González 🚀
 
 Me dedico a construir soluciones digitales uniendo el desarrollo técnico con estándares de calidad.
-Me enfoco principalmente en el desarrollo **Backend** y **Fullstack**.
+Me enfoco principalmente en el desarrollo **Backend**.
+
+## 🚀 Mi Mayor Proyecto Actual: Aura Technology
+
+Actualmente me encuentro en la fase de construcción y lanzamiento de **Aura Technology**, una startup tecnológica nacida con la visión de transformar la región del Chaco boliviano. 
+
+Bajo la premisa de que **Educación + Tecnología + Calidad = Desarrollo Económico y Social**, en Aura Technology nos dedicamos a diseñar e implementar soluciones de software que automaticen procesos, optimicen la gestión organizacional y desarrollen el talento técnico local. 
+
+*   **Mi rol:** Co-Fundador & Líder de Desarrollo.
+*   **Enfoque:** Arquitectura de sistemas, estandarización de procesos bajo criterios de calidad.
 
 ## 💡 Mi Filosofía y Enfoque
 
@@ -10,37 +19,28 @@ Me enfoco principalmente en el desarrollo **Backend** y **Fullstack**.
 *   **Compromiso Innegociable con la Calidad:** Para mí, la calidad es el pilar fundamental desde el diseño inicial. Me enfoco en construir sistemas limpios, ordenados y bien estructurados.
 
 
-## ─── 🛠️ Mi Stack Tecnológico ───
+## 🛠️ Mi Stack Tecnológico
 
 ### 💻 Backend & APIs
-- **PHP** (Laravel / Ecosistema Fullstack)
-- **Python** (FastAPI / Desarrollo Asíncrono y scripts)
+- **PHP** (Laravel)
+- **Python** (FastAPI)
 - **Java** (Programación Orientada a Objetos y lógica sólida)
 
 ### 🎨 Frontend
-- **JavaScript / TypeScript**
-- **Vue.js** (Desarrollo reactivo basado en componentes)
-- **Inertia.js** (Unión perfecta y fluida entre Backend y Frontend)
-- **TailwindCSS** (Estilos modernos y adaptables)
+- **Vue.js** (javascript)
+- **Inertia.js**
+- **TailwindCSS**
 
 ### 🗄️ Bases de Datos & Herramientas
-- **PostgreSQL / MySQL** (Modelado relacional, optimización y manejo de ORMs como Eloquent)
-- **Git & GitHub** (Control de versiones y flujo de trabajo colaborativo)
-- **AppSheet** (Prototipado rápido y soluciones ágiles de bajo código)
+- **PostgreSQL** (Modelado relacional y manejo de Eloquent)
+- **Git & GitHub**
+- **AppSheet** (Prototipado rápido)
 
----
-
-## ─── 📊 Mis Enfoques Actuales ───
-
-Actualmente estoy enfocado en profundizar mis habilidades en la automatización de despliegues (**Docker / CI-CD**), la implementación de pruebas automatizadas (**Testing** con Pest/PyTest) para asegurar código indestructible, y el desarrollo de sistemas modulares de gestión de calidad.
-
----
-
-## ─── ✉️ ¡Conectemos! ───
+## ✉️ ¡Conectemos!
 
 Si tenés un proyecto en mente, querés charlar sobre tecnología o explorar oportunidades de colaboración, no dudes en contactarme:
 
-- **LinkedIn:** [Tu Nombre Profesional o Enlace]
-- **Correo:** [Tu Correo Electrónico]
+- **WhatsApp:** +591 68749269
+- **Correo:** saidbenjamingonzalezsanguino@gmail.com
 
-*(¡Gracias por visitar mi perfil! El código limpio y la mejora continua son el motor de cada uno de mis repositorios.)*
+*(¡Gracias por visitar mi perfil!)*
