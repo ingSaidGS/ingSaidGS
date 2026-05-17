@@ -5,11 +5,11 @@ Me enfoco principalmente en el desarrollo **Backend** y **Fullstack**.
 
 ---
 
-## ─── 💼 En lo que me destaco ───
+## ─── 💡 Mi Filosofía y Enfoque ───
 
-*   **Desarrollo Backend Robusto:** Creación de sistemas de gestión complejos, control de lógica de negocio y automatizaciones eficientes.
-*   **Diseño de APIs Modernas:** Construcción de endpoints rápidos, asíncronos, bien documentados y listos para ser consumidos por cualquier Frontend o aplicación móvil.
-*   **Mentalidad de Calidad:** Enfoque basado en el orden, la estandarización de procesos, la documentación limpia y la implementación de buenas prácticas de ingeniería de software.
+*   **Tecnología con Propósito:** No programo solo por escribir líneas de código; creo software con un objetivo claro. Mis soluciones buscan transformar entornos y potenciar el talento local.
+*   **Diseño de Soluciones Integrales:** Cuando veo un problema, busco entender el panorama completo para diseñar sistemas eficientes que ordenen, estandaricen y optimicen los procesos reales de una organización o negocio.
+*   **Compromiso Innegociable con la Calidad:** Para mí, la calidad es el pilar fundamental desde el diseño inicial. Me enfoco en construir sistemas limpios, ordenados y bien estructurados.
 
 ---
 
